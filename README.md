@@ -10,4 +10,4 @@
 ### To create a GUI based system that allows a user to manage a grocery store with all the different products. The system can be used to generate various reports about products and prices of those products.
 
 ## This is the Login Screen:
-<img src="DirectedGUi.pdf" width="320">
+<img src= "DirectedGUi.pdf" width="320">
