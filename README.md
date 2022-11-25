@@ -1,5 +1,5 @@
-# This is My Grocery Store Project that I worked on myself. 
-### The code was build using Java and an IDE called Intellj. I used Java Swing to create the GUI. 
+# This is My Grocery Store Project . 
+### I worked on this myself and the code was build using Java and an IDE called Intellj. I used Java Swing to create the GUI. 
 
 ## How to install:
 1. Clone the repository: https://github.com/skytruong90/Grocery_Store_GUI.git
