@@ -11,3 +11,7 @@
 
 ## Mapping out the interaction between each applications:
 <img src= "DirectedGUi.jpg" width="700">
+
+## Files:
+Mock_GUI_1 doc is what I want the GUI to look like once everything is finished. You can view the doc by clicking on it and viewing it on Words.
+
