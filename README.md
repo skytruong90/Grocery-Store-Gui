@@ -4,7 +4,7 @@
 ## How to install:
 1. Clone the repository: https://github.com/skytruong90/Grocery_Store_GUI.git
 2. The main code is inside the code folder when you download everything.
-3. Run the project is any IDE, I used Intellij
+3. Run the project with any IDE.
 
 ## My Objective: 
 ### To create a GUI based system that allows a user to manage a grocery store with all the different products. The system can be used to generate various reports about products and prices of those products.
