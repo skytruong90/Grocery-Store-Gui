@@ -9,5 +9,5 @@
 ## My Objective: 
 ### To create a GUI based system that allows a user to manage a grocery store with all the different products. The system can be used to generate various reports about products and prices of those products.
 
-## This is the Login Screen:
-<img src= "DirectedGUi.jpg" width="320">
+## This is a picture of how I want the different applcation to interact with each other:
+<img src= "DirectedGUi.jpg" width="400">
