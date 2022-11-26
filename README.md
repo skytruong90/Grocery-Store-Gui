@@ -12,7 +12,7 @@
 ## Mapping out the interaction between each applications:
 <img src= "DirectedGUi.jpg" width="700">
 
-## Files:
+## Other Files:
 "Mock_GUI_1" is a word document of what I want the GUI to look like once everything is finished. You can view the doc by clicking on it and viewing it on Words.
 
 "User_Stories" is an excel document of what and why I ranked as my priorities.
