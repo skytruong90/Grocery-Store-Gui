@@ -1,4 +1,4 @@
-# This is My Grocery Store Project
+# Grocery Store Project
 ### I worked on this myself as a side project and the code was build using Java and an IDE called Intellj. I used Java Swing to create the GUI. 
 
 ## How to install:
